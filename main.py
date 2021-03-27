@@ -1,6 +1,8 @@
 import pyautogui # This Python library is required in order to run this code; If you don't have this 3rd party module installed, Google it and install prior to running this code.
 import time      # This is a standard Python library, used in this example to delay the time between each press of the "shift" key.
 
+pyautogui.FAILSAFE = False # This to ensure the script doesn't fail when you have the mouse pointer in the top left corner.
+
 while 1: # I use "1" instead of "True" to shorten the code by three characters.
     time.sleep(250) # This is set to 250 seconds
     """

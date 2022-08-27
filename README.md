@@ -1,5 +1,5 @@
 # Always Available at Work
-The code in `main.py` allows you to:
+The code in `main.py` / `main.pyw` allows you to:
 1. Never appear **Away** (i.e., always **Available** or **Active**) in communication software such as [Microsoft Teams](https://www.microsoft.com/en-us/microsoft-teams/group-chat-software) and [Slack](https://slack.com/)
 2. Keep your computer unlocked (i.e., you won't be logged out of Windows when you, for example, walk away from your computer for 30 minutes)
 

@@ -10,13 +10,13 @@ key = 'shift'
 # Number of press repetitions
 presses = 1
 
-# Seconds between each press
-interval = 3
-
 # Infinite loop
 while 1:
+    # Seconds between each press
+    time.sleep(3)
+    
     # Press the `key`
-    pyautogui.press(keys=key, presses=presses, interval=interval) 
+    pyautogui.press(keys=key, presses=presses) 
 
     # For informational purposes: this line prints, to the console, the time at which `key` is pressed 
-    print(f"{key.title()} was pressed at {time.strftime('%I:%M:%S %p')}") 
+    print(f"{key.title()} was pressed at {time.strftime('%I:%M:%S %p')}")

@@ -1,0 +1,2 @@
+key [INSERT VALUE TO THE RIGHT] shift
+interval [INSERT VALUE TO THE RIGHT] 3

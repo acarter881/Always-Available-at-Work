@@ -1,6 +1,5 @@
 # Always Available at Work
 ## `main.py` is the source code for the desktop (i.e., GUI) version. It is provided for compliance with the GNU General Public License v3.0.
----
 
 The code in `non_gui_main.py` / `non_gui_main.pyw` allows you to:
 1. Never appear **Away** (i.e., always **Available** or **Active**) in communication software such as [Microsoft Teams](https://www.microsoft.com/en-us/microsoft-teams/group-chat-software) and [Slack](https://slack.com/)
